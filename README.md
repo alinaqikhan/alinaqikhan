@@ -4,7 +4,7 @@
 
 - 🎓  I am a 3rd Year Undergraduate student at <a href="https://uet.edu.pk"> <b>University of Engineering and Technology, Lahore</b> </a>
 
-- 🔭 I’m currently working on **React** <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="13" height="13"/>
+- 🔭 I’m currently working on **Next.js**
 
 - 🌱 Learning new Technologies ...
 
