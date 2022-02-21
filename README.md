@@ -34,6 +34,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+	<img style="margin: auto;" src="https://camo.githubusercontent.com/55ddd36a30f28a10ed8f518c7e73005d991584f8/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f756e69636f646576656c6f7065722f696d6167652f75706c6f61642f76313532343737363736342f6e6578742d6a736c6f676f2e737667" alt=next.js width="60" height="60"/> 
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
