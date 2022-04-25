@@ -4,7 +4,7 @@
 
 - 🎓  I am a 3rd Year Undergraduate student at <a href="https://uet.edu.pk"> <b>University of Engineering and Technology, Lahore</b> </a>
 
-- 🔭 I’m currently working on **Next.js**
+- 🔭 I’m currently working on **JavaScript**
 
 - 🌱 Learning new Technologies ...
 
