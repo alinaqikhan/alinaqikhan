@@ -1,26 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ali</h1>
-<h3 align="center">Full Stack Web Developer</h3> 
 <br>
 
-- 🎓  I am a 3rd Year Undergraduate student at <a href="https://uet.edu.pk"> <b>University of Engineering and Technology, Lahore</b> </a>
-
-- 🔭 I’m currently working on **JavaScript**
-
-- 🌱 Learning new Technologies ...
-
-- 🔥 Open Source Contributor
-
-- ⚡ Coding, Designing, ...
-
-- 🪐 Open for **Intern Opportunities**
-
-- 💬 Ask me about Web development, UI/UX Designing, ...
+👨🏻‍💻  Frontend Engineer at <b>XCS Holdings PTE. LTD. - Singapore 🇸🇬</b> <br/>
+🔭 I’m currently working on **JavaScript** <br/>
+🌱 Learning new Technologies ... <br/>
+🔥 Open Source Contributor <br/>
+⚡ Coding, Designing, ... <br/>
+🪐 Open for **MERN Developer Opportunities** <br/>
+💬 Ask me about Web development, UI/UX Designing, ... <br/>
 
 <br>
 
 <p align="center">
     <img class="darkMode" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaqikhan&theme=dark&hide_border=true&ring=30d158&fire=30d158&currStreakLabel=30d158&background=0d1117&stroke=00000000&count_private=true&include_all_commits=true" />
-    <img class="darkMode"  src="https://activity-graph.herokuapp.com/graph?username=alinaqikhan&count_private=true&hide_border=true&bg_color=0d1117&area=true&area_color=30d158&custom_title=Open%20Source%20Contributions&line=34c75950&point=34c759&theme=github" />
 </p>
 
 
