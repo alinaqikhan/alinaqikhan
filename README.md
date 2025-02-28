@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ali</h1>
 <br>
 
-👨🏻‍💻  Frontend Engineer at <b>XCS Holdings PTE. LTD. - Singapore 🇸🇬</b> <br/>
+🪐 Open for **MERN Engineer Opportunities** <br/>
+👨🏻‍💻  Ex-Frontend Engineer at <b>XCS Holdings PTE. LTD. - Singapore 🇸🇬</b> <br/>
 🔭 I’m currently working on **JavaScript** <br/>
 🌱 Learning new Technologies ... <br/>
 🔥 Open Source Contributor <br/>
 ⚡ Coding, Designing, ... <br/>
-🪐 Open for **MERN Developer Opportunities** <br/>
 💬 Ask me about Web development, UI/UX Designing, ... <br/>
 
 <br>
